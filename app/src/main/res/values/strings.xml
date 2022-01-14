@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AfzaTicketSystem</string>
+
+    <string-array name="fromlist">
+        <item>From</item>
+        <item>Brampton</item>
+        <item>Guelph</item>
+        <item>Hamilton</item>
+        <item>Kingston</item>
+        <item>London</item>
+        <item>Toronto</item>
+    </string-array>
+    <string-array name="destlist">
+        <item>Destination</item>
+        <item>Brampton</item>
+        <item>Guelph</item>
+        <item>Hamilton</item>
+        <item>Kingston</item>
+        <item>London</item>
+        <item>Toronto</item>
+    </string-array>
+</resources>

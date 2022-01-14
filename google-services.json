@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457377120799",
+    "project_id": "afzaticketsystem",
+    "storage_bucket": "afzaticketsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457377120799:android:695cc0802c0255d548cb2a",
+        "android_client_info": {
+          "package_name": "com.abuafza.afzaticketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457377120799-3ljko1rlr4ms929hvcq8gn2jspqosq4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvAj5gauDLbRntjO3Ql1xwC32zKXQB35M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457377120799-3ljko1rlr4ms929hvcq8gn2jspqosq4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

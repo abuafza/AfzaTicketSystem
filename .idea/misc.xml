@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/AfzaTicketSystem/app/src/main/res/layout-land/activity_booking.xml" value="0.18072916666666666" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/AfzaTicketSystem/app/src/main/res/layout/activity_booking.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/AfzaTicketSystem/app/src/main/res/layout/activity_final_page.xml" value="0.18" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/drawable/button1.xml" value="0.165234375" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/drawable/button2.xml" value="0.165234375" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/drawable/round_shape.xml" value="0.165234375" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/drawable/round_shape1.xml" value="0.165234375" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/drawable/round_shape2.xml" value="0.165234375" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout-land/activity_login_page.xml" value="0.2171875" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout-land/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_booking.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_final_page.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_login_page.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_payment_page.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_register.xml" value="0.16" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_splash_page.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_ticket_fair.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/layout/activity_website.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/menu/mymenu.xml" value="0.153125" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/triOS_College/afza/20.Android_Development_Dec062021_Jan1420222/Project/AfzaTicketSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
